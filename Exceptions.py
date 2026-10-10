@@ -19,7 +19,7 @@ class ExceptionsDemo:
             print(content)
     
     def access_attribute(self, obj):
-        print(obj.tnonexistent_attribue)
+        print(obj.sum)
     
     def check_positive(self, number):
         if number < 0:
